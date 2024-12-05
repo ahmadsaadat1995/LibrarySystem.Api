@@ -1,0 +1,18 @@
+[
+  {
+    "BookId": 1,
+    "PublisherId": 1
+  },
+  {
+    "BookId": 2,
+    "PublisherId": 2
+  },
+  {
+    "BookId": 3,
+    "PublisherId": 3
+  },
+  {
+    "BookId": 4,
+    "PublisherId": 4
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "Title": "The Great Gatsby",
+    "Description": "A novel set in the Jazz Age that explores themes of wealth, excess, and the American Dream.",
+    "Price": 10.99,
+    "Category": 7,
+    "AutherId": 1,
+    "PictureUrl": "https://example.com/images/the-great-gatsby.jpg",
+    "AdditionalInfo": {
+      "Format": 3,
+      "DatePublished": "1925-04-10",
+      "Language": 0
+    }
+  },
+  {
+    "Title": "1984",
+    "Description": "A dystopian novel exploring totalitarian regimes.",
+    "Price": 15.99,
+    "Category": 14,
+    "AutherId": 2,
+    "PictureUrl": "https://example.com/images/1984.jpg",
+    "AdditionalInfo": {
+      "Format": 0,
+      "DatePublished": "1949-06-08",
+      "Language": 0
+    }
+  },
+  {
+    "Title": "Pride and Prejudice",
+    "Description": "A classic romantic novel of manners.",
+    "Price": 12.49,
+    "Category": 27,
+    "AutherId": 3,
+    "PictureUrl": "https://example.com/images/pride-and-prejudice.jpg",
+    "AdditionalInfo": {
+      "Format": 7,
+      "DatePublished": "1813-01-28",
+      "Language": 0
+    }
+  },
+  {
+    "Title": "War and Peace",
+    "Description": "A historical novel set during the Napoleonic Wars.",
+    "Price": 20.00,
+    "Category": 15,
+    "AutherId": 4,
+    "PictureUrl": "https://example.com/images/war-and-peace.jpg",
+    "AdditionalInfo": {
+      "Format": 4,
+      "DatePublished": "1869-01-01",
+      "Language": 2
+    }
+  }
+]

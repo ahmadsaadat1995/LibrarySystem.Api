@@ -1,0 +1,22 @@
+[
+  {
+    "FullName": "F. Scott Fitzgerald",
+    "Biography": "Author of 'The Great Gatsby.'",
+    "ProfilePictureUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/F.ScottFitzgerald.jpg"
+  },
+  {
+    "FullName": "George Orwell",
+    "Biography": "Author of '1984' and 'Animal Farm.'",
+    "ProfilePictureUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/George_Orwell_press_photo.jpg"
+  },
+  {
+    "FullName": "Jane Austen",
+    "Biography": "Author of 'Pride and Prejudice.'",
+    "ProfilePictureUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/CassandraAusten-JaneAusten%28c.1810%29_hires.jpg"
+  },
+  {
+    "FullName": "Leo Tolstoy",
+    "Biography": "Author of 'War and Peace.'",
+    "ProfilePictureUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Leo_Tolstoy%2C_portrait.jpg"
+  }
+]
